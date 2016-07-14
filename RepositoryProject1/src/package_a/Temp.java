@@ -1,6 +1,10 @@
-A change added from GitHub.com
+package package_a;
 
+public class Temp
+{
 
+    //A change added from GitHub.com
 
+    //////////////////////////////////
 
-//////////////////////////////////
+}
